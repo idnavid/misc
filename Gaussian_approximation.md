@@ -1,5 +1,5 @@
 ## On the significance of Gaussian distributions
-I recently read an interesting perspective on this in David Mackay's book "Information Theory, Inference, and Learning Algorithms, " Chapter 28, which I'll briefly summarize here. 
+I recently read an interesting perspective on this in David Mackay's book "[Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itila/), " Chapter 28, which I'll briefly summarize here. 
 
 Say we want to approximate the posterior probability of a parameter given some data *P(**w**|**D**)*. A reasonable approximation is the Taylor series expansion around some point of interest. A good candidate for this point is the Maximum Likelihood estimation, ***w\****. Using the 2nd order Taylor series expansion of the *log*-probability of P at ***w\****: 
 
