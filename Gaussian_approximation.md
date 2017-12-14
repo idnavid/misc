@@ -4,7 +4,7 @@ For more on this, see David Mackay's book "[Information Theory, Inference, and L
 
 Say we want to approximate the posterior probability of a parameter, **w**, given some data, **D**. A reasonable approximation is the Taylor Series expansion around some point of interest. A good candidate for this point is the Maximum Likelihood estimation, **w***. Using the 2nd order Taylor Series expansion of the *log*-probability of P at **w***: 
 
-
+<span style="color:blue">some *This is Blue italic.* text</span>
 >>> log(P(**w**|**D**)) = log(P(**w***|**D**)) + &#8711;log(P(**w***|**D**))(**w**-**w***) - (1/2)(**w**-**w***)^T(-&#8711;&#8711;log(P(**w***|**D**)))(**w**-**w***) +H.O.T
 
 
