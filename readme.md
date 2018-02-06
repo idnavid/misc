@@ -10,3 +10,4 @@ others I noticed while reading.
 - [How to create a GIF image in matlab. (Useful for presentations)](https://github.com/idnavid/misc/blob/master/demo_gif.m)
 - [Detailed notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)
 - [Cumulative Match Curve](NA) + [code](https://github.com/idnavid/misc/blob/master/plot_cmc.m)
+- [Deriving Akaike's information criterion for Gaussian data](https://github.com/idnavid/misc/blob/master/deriving_aic.pdf)
