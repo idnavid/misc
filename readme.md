@@ -11,3 +11,4 @@ others I noticed while reading.
 - [Detailed notes on Variational Bayes](https://github.com/idnavid/misc/blob/master/variationalbayes_doc1.ipynb)
 - [Cumulative Match Curve](NA) + [code](https://github.com/idnavid/misc/blob/master/plot_cmc.m)
 - [Deriving Akaike's information criterion for Gaussian data](https://github.com/idnavid/misc/blob/master/deriving_aic.pdf)
+- [Code to generate bar plots (for papers)](https://github.com/idnavid/misc/tree/master/generate_barplots_dir)
