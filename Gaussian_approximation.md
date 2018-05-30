@@ -1,5 +1,5 @@
 ## On the significance of Gaussian distributions
-I recently left the following as a response to an inquiry on slackoverflow.com. The question was: "Why is the Gaussian distribution so popular in probabilistic estimation?". Although there are MANY reasons that justify using a Gaussian distribution, I find the following, which is the Maximum Lieklihood Taylor Series Expansion most interesting.     
+I recently left the following answer in a response to an inquiry on slackoverflow.com. The question was: "Why is the Gaussian distribution so popular in probabilistic estimation?". Although there are MANY reasons that justify using a Gaussian distribution, I find the following, which is the Maximum Lieklihood Taylor Series Expansion most interesting.     
 For more on this, see David Mackay's book "[Information Theory, Inference, and Learning Algorithms - Chapter 28](http://www.inference.org.uk/itila/)" 
 
 Say we want to approximate the posterior probability of a parameter, **w**, given some data, **D**. A reasonable approximation is the Taylor Series expansion around some point of interest. A good candidate for this point is the Maximum Likelihood estimation, **w***. Using the 2nd order Taylor Series expansion of the *log*-probability of P at **w***: 
