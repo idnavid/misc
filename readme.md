@@ -14,3 +14,4 @@ others I noticed while reading.
 - [Deriving Akaike's information criterion for Gaussian data](https://github.com/idnavid/misc/blob/master/deriving_aic.pdf)
 - [Code to generate bar plots (for papers)](https://github.com/idnavid/misc/tree/master/generate_barplots_dir)
 - [Notes on Geometric Interpretation of CCA](https://github.com/idnavid/misc/blob/master/cca_geometricinterp.ipynb)
+- [Approximating the dimensionality of a subspace](https://github.com/idnavid/misc/blob/master/intrinsic_dimensionality.ipynb)
