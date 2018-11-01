@@ -17,3 +17,4 @@ others I noticed while reading.
 - [Notes on Geometric Interpretation of CCA](https://github.com/idnavid/misc/blob/master/cca_geometricinterp.ipynb)
 - [Approximating the dimensionality of a subspace](https://github.com/idnavid/misc/blob/master/intrinsic_dimensionality.ipynb)
 - [A practical example for using `lambda` expressions in Python](https://github.com/idnavid/misc/blob/master/lambda_example.ipynb)
+- [Another interesting example on Maximum Likelihood: ML, Y U DO DIS?](https://github.com/idnavid/misc/blob/master/ML_faultyexample.ipynb)
