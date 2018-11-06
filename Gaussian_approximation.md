@@ -1,4 +1,6 @@
 ## On the significance of Gaussian distributions
+Navid Shokouhi
+
 The question is: "Why is the Gaussian distribution so popular in probabilistic estimation?". Although there are MANY reasons that justify using a Gaussian distribution, I find the following, which is the Maximum Lieklihood Taylor Series Expansion most resonating for me as an engineer.     
 For more on this, see David Mackay's book "[Information Theory, Inference, and Learning Algorithms - Chapter 28](http://www.inference.org.uk/itila/)" 
 
