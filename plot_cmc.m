@@ -10,6 +10,8 @@ function cmc = plot_cmc(score_mat,test_labels)
 % 
 % Output
 %       cmc: Cumulative Match Curve
+%
+% Navid Shokouhi, 2018
 
 [n_test,n_models] = size(score_mat);
 true_mat = zeros(n_test,n_models);
