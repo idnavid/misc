@@ -19,3 +19,4 @@ others I noticed while reading.
 - [A practical example for using `lambda` expressions in Python](https://github.com/idnavid/misc/blob/master/lambda_example.ipynb)
 - [Another interesting example on Maximum Likelihood](https://github.com/idnavid/misc/blob/master/ML_interesting_example.pdf)
 - [Monty Hall Problem: Reasoning and Simulations](https://github.com/idnavid/misc/blob/master/monty_hall.ipynb)
+- [Short note on the geometric interpretation of the Cramer-Rao Lower Bound](https://github.com/idnavid/misc/blob/master/crlb_geometricinterp.md)
