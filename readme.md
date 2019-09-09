@@ -5,6 +5,17 @@ I prepared as answers to forums,
 some topics I studied out of curiosity, 
 others I noticed while reading.  
 
+### Topics:
+- programming: simple tools and demos that I've stored for my own and others' reference.
+- Maximum Likelihood: The principal of ML plays an important role in my day-to-day. Hence, I spend a fair amount of time thinking about ML. An interesting quote that explains ML as a guideline is: 
+
+> *At a superficial level, the idea of maximum likelihood must be prehistoric: early hunters and gatherers may not have used the words ``method of maximum likelihood'' to describe their choice of where and how to hunt and gather, but it is hard to believe they would have been surprised if their method had been described in those terms. It seems a simple, even unassailable idea: Who would rise to argue in favor of a method of minimum likelihood, or even mediocre likelihood?
+Stigler, Stephen M. "The epic story of maximum likelihood." Statistical Science 22, no. 4 (2007): 598-620.*
+
+- Intriguing notions in probabilities and statistics
+- Summary/brief notes from my answers to questions in forums. 
+- And many more topics ...
+
 ### Contents
 - [On the importance of statistical significance in analyzing characteristic roots](https://github.com/idnavid/misc/blob/master/comparingSimilarityMeasures.ipynb)
 - [On the significance of the Gaussian distribution - A Bayesian perspective](https://github.com/idnavid/misc/blob/master/Gaussian_approximation.md)
